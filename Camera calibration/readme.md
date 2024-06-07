@@ -1,4 +1,4 @@
-# Camera i## Camera intrinsic features for distance estiamtion
+## Camera intrinsic features for distance estiamtion
 Camera calibration in opencv
 
 In this task I have implemented a python script to estimate the intrinsic parameters of camera using a calibration tool chessboard. The script is capable of reading images or videos from a specified path. After processing, the script is able to output two camera's intrinsic parameters: focal lengths (fx, fy) and the principal point coordinates (cx, cy).
